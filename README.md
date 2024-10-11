@@ -1,0 +1,1 @@
+这是一个基于Pyqt6的聊天应用程序，并且在此基础上通过Docker+Rabbitmq实现了分布式协同计算的功能。主文件为mainWindows，Mysql文件夹里是后端C++代码，co_caculate.pyd文件是C++编写的协同功能扩展模块。
